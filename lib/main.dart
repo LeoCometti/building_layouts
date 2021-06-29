@@ -23,3 +23,15 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+// Step 1: Diagram the layout
+// 
+// The first step is to break the layout down to its basic elements:
+//  - Identify the rows and columns.
+//  - Does the layout include a grid?
+//  - Are there overlapping elements?
+//  - Does the UI need tabs?
+//  - Notice areas that require alignment, padding, or borders.
+//
+// See this page: 
+// https://flutter.dev/docs/development/ui/layout/tutorial
